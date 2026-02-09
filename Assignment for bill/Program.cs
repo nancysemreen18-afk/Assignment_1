@@ -1,5 +1,4 @@
 ﻿
-
 Console.WriteLine("Please Enter Your Bill "); 
 double billAmount = Convert.ToDouble(Console.ReadLine()); //input from  user and convert to double 
 double discount = 0;
